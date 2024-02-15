@@ -1,10 +1,10 @@
-# Website Name
+# Panto
 
 A simple website showcasing HTML, CSS, and JavaScript.
 
 ## Description
 
-This website provides a basic introduction to web development using HTML, CSS, and JavaScript. It includes a home page, an about page, and a contact page.
+This website provides a basic introduction to web development using HTML, CSS, and JavaScript. 
 
 ## Technologies Used
 
